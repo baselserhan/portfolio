@@ -28,6 +28,7 @@ const Navbar = () => {
           <NavLink
             to={"/"}
             className={(props) => (props.isActive ? "active" : "")}
+            end
           >
             Home
           </NavLink>
