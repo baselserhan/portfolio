@@ -7,22 +7,22 @@ const ProjectCardData = [
     imgsrc: pro1,
     title: "Ecommerce Website Design",
     text: "This is an ecommerce website for different products and services.",
-    view: "#",
-    source: "#",
+    view: "/projects",
+    source: "/projects",
   },
   {
     imgsrc: pro2,
     title: "Ecommerce Website Design",
     text: "This is an ecommerce website for different products and services.",
-    view: "#",
-    source: "#",
+    view: "/projects",
+    source: "/projects",
   },
   {
     imgsrc: pro3,
     title: "Ecommerce Website Design",
     text: "This is an ecommerce website for different products and services.",
-    view: "#",
-    source: "#",
+    view: "/projects",
+    source: "/projects",
   },
 ];
 
